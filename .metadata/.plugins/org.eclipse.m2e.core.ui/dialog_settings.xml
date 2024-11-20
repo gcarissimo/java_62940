@@ -48,6 +48,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Clase01"/>
+			<item value="Clase-01"/>
+			<item value="clase-01"/>
 			<item value="clase-00"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -59,7 +62,12 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
 			<item value="1.0.0"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
