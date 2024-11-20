@@ -19,7 +19,7 @@ public class Clase01 {
 		char inicialNombre = 'A';
 
 		//Ejercicio 6. 
-		int[] calificaciones = new int[5];
+		int[] calificaciones = {0,1,2,3,4,5,6,7,8,9,10};
 
 		//Ejercicio 7.		 
 		String nombreApellido = "Juan Fernandez";
