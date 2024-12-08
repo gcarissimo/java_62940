@@ -45,14 +45,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.coderhouse.com"/>
 			<item value="com.coderhouse"/>
+			<item value="com.coderhouse.com"/>
 			<item value="Clase02"/>
 		</list>
 		<list key="name">
 			<item value="Clase02"/>
 		</list>
 		<list key="artifactId">
+			<item value="Clase04-Ejerciocios"/>
 			<item value="Clase03"/>
 			<item value="Close02"/>
 			<item value="com.coderhouse"/>
