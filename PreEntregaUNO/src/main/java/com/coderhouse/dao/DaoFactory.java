@@ -31,7 +31,6 @@ public class DaoFactory {
 	
 	@Transactional
     public Venta persistirVenta(Venta venta) {
-        // Asegurarse de que los detalles tengan referencia a la venta
         for (Venta_Detalle detalle : venta.getDetalles()) {
             detalle.setVenta(venta);
         }
